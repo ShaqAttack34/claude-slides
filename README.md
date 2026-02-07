@@ -623,4 +623,4 @@ PAGE NUMBER
 
 ---
 
-Built Shaq who got tired of making slides by hand. Now Claude does it in seconds, on-brand every time.
+Built by Shaq who got tired of making slides by hand. Now Claude does it in seconds, on-brand every time.
