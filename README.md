@@ -514,7 +514,7 @@ Once set up, generating decks is a one-liner.
 ### Example Prompts
 
 ```
-/Gslides quarterly board update: revenue hit $2.1M (up 34%),
+/Gslides quarterly board update: revenue hit $9.1M (up 34%),
 3 new enterprise clients, hiring 4 engineers in Q2,
 key risk is churn in SMB segment
 
@@ -523,8 +523,8 @@ key risk is churn in SMB segment
 timeline from April to June, team allocation
 
 /Gslides investor pitch: problem (home services are fragmented),
-solution (AI-powered platform), traction (50K users, $1.2M ARR),
-team (4 founders), ask ($5M Series A)
+solution (AI-powered platform), traction (50K users, $10.2M ARR),
+team (4 founders), ask ($25M Series B)
 
 /Gslides team all-hands: celebrate Q1 wins, introduce new hires,
 preview Q2 priorities, open Q&A
@@ -533,7 +533,7 @@ preview Q2 priorities, open Q&A
 ### Tips for Best Results
 
 1. **Give context, not instructions**: describe WHAT you're presenting, not HOW to build slides. Claude knows the design system.
-2. **Include real numbers**: "revenue grew 34% to $2.1M" produces better slides than "show revenue growth".
+2. **Include real numbers**: "revenue grew 34% to $9.1M" produces better slides than "show revenue growth".
 3. **Specify the audience**: "board update" vs "team all-hands" changes the tone and detail level.
 4. **List key points**: bullet points in your prompt map naturally to slide content.
 5. **Iterate**: after the first build, ask Claude to adjust specific slides. "Make slide 3 more visual" or "add a timeline to slide 5".
@@ -542,7 +542,7 @@ preview Q2 priorities, open Q&A
 
 ## Gotchas and Tips
 
-Hard-won lessons from building hundreds of slides with this workflow.
+Hard-won lessons from lots of slides with this workflow.
 
 ### API Gotchas
 
@@ -623,4 +623,4 @@ PAGE NUMBER
 
 ---
 
-Built by a team that got tired of making slides by hand. Now Claude does it in seconds, on-brand every time.
+Built Shaq who got tired of making slides by hand. Now Claude does it in seconds, on-brand every time.
