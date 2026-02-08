@@ -1,6 +1,6 @@
 # Build On-Brand Slide Decks with Claude Code ; co-created by ClaudeCode, steered by Shareq Husain (Shaq)
 
-Turn natural language into polished, on-brand Google Slides presentations. No design skills required.
+Turn natural language into polished, on-brand Google Slides presentations. No design skills required. To make it easy you can probably point your Claude to this readme so it has full context of your end goal, and can help you find further shortcuts, like pulling out brand colors from existing templates.
 
 **What you'll build:**
 - A Google Slides MCP connection so Claude can create and edit presentations
